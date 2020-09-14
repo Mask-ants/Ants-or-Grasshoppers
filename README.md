@@ -2,7 +2,7 @@
 - 오늘 내가 어떤 개발을 했는지 기록하고 자신이 개미처럼 열심히 살았는지, 베짱이처럼 살았는지 하루를 돌아보는 공간입니다.
 ## Who 
 - [Ants or Grsshoppers 멤버들](https://github.com/Mask-ants/Ants-or-Grasshoppers/graphs/contributors)<br>
-Ants or Grasshoppers를 함께 하고 싶으신 분들은 자유롭게 [이곳](sskkanji@gmail.com)으로 연락주세요!
+Ants or Grasshoppers를 함께 하고 싶으신 분들은 자유롭게 sskkanji@gmail.com으로 연락주세요!
 ## When
 - 언제든지 자유롭게 커밋할 수 있어요.
 ## What
