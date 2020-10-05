@@ -12,3 +12,4 @@ Ants or Grasshoppers를 함께 하고 싶으신 분들은 자유롭게 sskkanji@
 ## Rules
 - 자신의 이슈를 만들고 커밋 메세지에 이슈 번호와 함께 작성하여 커밋합니다.
 - 폴더 구조 예시) sokkanji - Sep - week1 - 0901.md 
+- 폴더 구조 예시) sokkanji - 09 - week1 - 0901.md 
